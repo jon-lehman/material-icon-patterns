@@ -1,11 +1,11 @@
-material-icon-patterns
+# material-icon-patterns
 
-V1.0
-Updated:8/9/2017
+### V1.0
+### Updated:8/9/2017
 
 =================
 
-Credits:
+## Credits:
 
 • Patterns arranged by Jon Lehman at Idea42
 • Icons from materialdesignicons.com
@@ -18,6 +18,7 @@ Credits:
 
 Thank you for downloading, enjoy!
 
+```
  ___   ______   _______  _______  _   ___  _______ 
 |   | |      | |       ||   _   || | |   ||       |
 |   | |  _    ||    ___||  |_|  || |_|   ||____   |
@@ -25,3 +26,5 @@ Thank you for downloading, enjoy!
 |   | | |_|   ||    ___||       ||___    || ______|
 |   | |       ||   |___ |   _   |    |   || |_____ 
 |___| |______| |_______||__| |__|    |___||_______|
+
+```
