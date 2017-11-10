@@ -1,5 +1,9 @@
 # material-icon-patterns
 
+Heavily inspired by Rohan Bhangui’s Material Design Icon Patterns, these 5 simple icon patterns can be used on the web (ex: hero backgrounds, section highlights, watermarks, etc) or even on printed materials. The pack includes the individual tile .png files, an Adobe Illustrator file with the original pattern swatches so that you can edit as needed, and also a Sketch file with the color applications shown in the preview images.
+
+Icon patterns like these have become more and more popular and personally, I find myself recreating similar patterns for a variety of projects. The patterns are available under a MIT license, which basically gives everybody full rights to the patterns. However, please be aware that the icons used are originally from materialdesignicons.com and carry their own license but it also is very generous.
+
 =================
 
 ## Credits:
