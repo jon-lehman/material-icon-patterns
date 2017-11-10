@@ -1,8 +1,5 @@
 # material-icon-patterns
 
-### V1.0
-### Updated:8/9/2017
-
 =================
 
 ## Credits:
